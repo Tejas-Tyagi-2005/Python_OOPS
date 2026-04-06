@@ -11,9 +11,9 @@ class Student():
             print(f"Marks are {self.__marks}")
 
 
-lodu = Student(34)
+cole = Student(34)
 
-lodu.get_marks()
+cole.get_marks()
 
-lodu.set_marks()
+cole.set_marks()
            
